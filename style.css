@@ -1,0 +1,8 @@
+.theButtons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sauce {
+  background-image: url(https://thumbs.dreamstime.com/b/delivery-box-background-cargo-package-seamless-pattern-various-open-closed-cardboard-boxes-parcel-flat-line-icons-warehouse-175148460.jpg);
+}
